@@ -45,7 +45,3 @@ app.*.map.json
 /android/app/release
 **/android/local.properties
 .gradle/
-
-# Local secrets (copy from .env.example if you add one)
-assets/.env
-.env
